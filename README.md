@@ -5,6 +5,7 @@
 - Project Name: Drug Name Detection using Detectron2
 - Group ID: 3
 - Domain: Data Science
+- Code by Ansh Shankar, Preet Jain
 
 ## Detectron2 Model Details
 
@@ -15,9 +16,9 @@
 
 Below are screenshots of the Flask API, Flask UI, and Streamlit UI.
 
-[Flask API Screenshot](screenshots/flask_api.png)
-[Flask UI Screenshot](screenshots/flask_ui.png)
-[Streamlit UI Screenshot](screenshots/streamlit_ui.png)
+[Flask API Screenshot](Flask/API.jpg)
+[Flask UI Screenshot](Flask/UI.png)
+[Streamlit UI Screenshot](Streamlit/UI.jpg)
 
 ## Basic Overview
 
