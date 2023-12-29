@@ -16,9 +16,9 @@
 
 Below are screenshots of the Flask API, Flask UI, and Streamlit UI.
 
-[Flask API Screenshot](Flask/API.jpg)
-[Flask UI Screenshot](Flask/UI.png)
-[Streamlit UI Screenshot](Streamlit/UI.jpg)
+[Flask API Screenshot](Flask/API.JPG)
+[Flask UI Screenshot](Flask/UI.JPG)
+[Streamlit UI Screenshot](Streamlit/UI.JPG)
 
 ## Basic Overview
 
