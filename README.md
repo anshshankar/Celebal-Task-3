@@ -10,7 +10,7 @@
 ## Detectron2 Model Details
 
 - Model Used: "COCO-Detection/faster_rcnn_R_50_FPN_3x.yaml"
-- Average Precision at 50% (ap50): 98.209%
+- Average Precision : 98.209%
 
 ## Screenshots
 
